@@ -1,0 +1,18 @@
+
+.toggle {
+    color:brown;
+    margin: 0 10% 0 10%;
+}
+
+button {
+    margin: 0 10% 0 0;
+    width: 150px;
+    height: 60px;
+    background-color: rgb(250, 167, 167);
+    border-style: hidden;
+    font-size: large;
+}
+
+.app{
+    margin: 10px 100px 10px 100px; 
+}

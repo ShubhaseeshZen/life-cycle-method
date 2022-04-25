@@ -1,0 +1,12 @@
+.title {
+    margin: 2% 10% 0 10%;
+    color: red;
+}
+
+.main-content {
+    font-family: cursive;
+    margin-left: 10%;
+    width: 60%;
+    font-size: large;
+    color:rgb(105, 98, 98);
+}
